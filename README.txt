@@ -1,5 +1,5 @@
 # 3-CardsGame
-Date- 19 September, 2021.
+Date- 19th September, 2021.
 ID: 170204061
 NAME: Mohammad Najrul Islam
 Project: Simple 3 cards game.
