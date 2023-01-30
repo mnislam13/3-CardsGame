@@ -1,4 +1,4 @@
-3-Cards Game
+# 3-Cards Game
 
 A card game similar to the popular ‘3-patti gold’ with a little tweak in game rules. 
 - Oracle database
